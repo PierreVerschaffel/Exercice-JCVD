@@ -1,0 +1,12 @@
+
+@media (max-width:991px) {
+    body {
+        border-top: 4px solid blue;
+    }
+}
+
+@media (max-width:575px) {
+    body {
+        border-top: 4px solid red;
+    }
+}
